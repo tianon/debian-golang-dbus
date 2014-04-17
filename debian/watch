@@ -1,0 +1,6 @@
+version=3
+opts=\
+filenamemangle=s/.+\/upstream\/(\d\S*)\.tar\.gz/golang-dbus-dev-$1\.tar\.gz/,\
+uversionmangle=s/(\d)_(git\d+)/$1~$2/ \
+  https://github.com/tianon/debian-golang-dbus-dev/tags \
+  .*/(\d\S*)\.tar\.gz

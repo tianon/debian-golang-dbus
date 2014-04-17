@@ -1,0 +1,5 @@
+golang-dbus-dev (0.0~git20140327-1) UNRELEASED; urgency=low
+
+  * Initial release (Closes: #nnnn)
+
+ -- Tianon Gravi <admwiggin@gmail.com>  Thu, 17 Apr 2014 02:07:07 +0000

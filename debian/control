@@ -1,0 +1,18 @@
+Source: golang-dbus-dev
+Section: devel
+Priority: extra
+Maintainer: Tianon Gravi <admwiggin@gmail.com>
+Build-Depends: dbus-x11, debhelper (>= 9), dh-golang, golang-go
+Standards-Version: 3.9.5
+Homepage: https://github.com/godbus/dbus
+Vcs-Git: git://github.com/tianon/debian-golang-dbus-dev.git
+Vcs-Browser: https://github.com/tianon/debian-golang-dbus-dev
+
+Package: golang-dbus-dev
+Architecture: all
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Built-Using: ${misc:Built-Using}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+ .
+ This package contains the source.
