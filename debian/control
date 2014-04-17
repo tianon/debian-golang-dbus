@@ -12,7 +12,8 @@ Package: golang-dbus-dev
 Architecture: all
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Built-Using: ${misc:Built-Using}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: Go client bindings for D-Bus
+ Package dbus is a simple library that implements native Go client bindings for
+ the D-Bus message bus system.
  .
  This package contains the source.
