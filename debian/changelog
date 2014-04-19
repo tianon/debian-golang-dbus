@@ -1,4 +1,4 @@
-golang-dbus-dev (0.0~git20140327-1) UNRELEASED; urgency=low
+golang-dbus-dev (1-1) UNRELEASED; urgency=low
 
   * Initial release (Closes: #744983).
 
