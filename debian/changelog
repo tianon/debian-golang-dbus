@@ -1,4 +1,4 @@
-golang-dbus-dev (1-1) UNRELEASED; urgency=low
+golang-dbus (1-1) UNRELEASED; urgency=low
 
   * Initial release (Closes: #744983).
 
