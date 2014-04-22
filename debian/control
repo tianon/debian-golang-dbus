@@ -5,8 +5,8 @@ Maintainer: Tianon Gravi <admwiggin@gmail.com>
 Build-Depends: dbus-x11, debhelper (>= 9), dh-golang, golang-go
 Standards-Version: 3.9.5
 Homepage: https://github.com/godbus/dbus
-Vcs-Git: git://github.com/tianon/debian-golang-dbus-dev.git
-Vcs-Browser: https://github.com/tianon/debian-golang-dbus-dev
+Vcs-Git: git://anonscm.debian.org/pkg-go/packages/golang-dbus.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-go/packages/golang-dbus.git
 
 Package: golang-dbus-dev
 Architecture: all
