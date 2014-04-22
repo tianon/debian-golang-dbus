@@ -1,4 +1,4 @@
-Source: golang-dbus-dev
+Source: golang-dbus
 Section: devel
 Priority: extra
 Maintainer: Tianon Gravi <admwiggin@gmail.com>
