@@ -25,3 +25,7 @@ echo 'use the following to push it:'
 echo
 echo "  git push -f origin upstream/$version:upstream/$version"
 echo
+echo 'if this upstream version has not been merged into master yet, use:'
+echo
+echo "  git merge upstream/$version"
+echo
