@@ -1,9 +1,9 @@
-golang-dbus (2-1~exp1) UNRELEASED; urgency=low
+golang-dbus (2-1~exp1) experimental; urgency=low
 
   * Upstream bump to v2
   * Bump Standards-Version to 3.9.6
 
- -- Tianon Gravi <admwiggin@gmail.com>  Sun, 01 Feb 2015 04:17:02 +0000
+ -- Tianon Gravi <admwiggin@gmail.com>  Sat, 31 Jan 2015 22:19:32 -0700
 
 golang-dbus (1-1) unstable; urgency=low
 
