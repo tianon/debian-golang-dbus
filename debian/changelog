@@ -1,6 +1,7 @@
 golang-dbus (2-1) UNRELEASED; urgency=low
 
   * Upstream bump to v2.
+  * Bump Standards-Version to 3.9.6.
 
  -- Tianon Gravi <admwiggin@gmail.com>  Sun, 01 Feb 2015 04:17:02 +0000
 
