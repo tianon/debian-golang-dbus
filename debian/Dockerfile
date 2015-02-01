@@ -15,6 +15,4 @@ RUN uscan --force-download --verbose --download-current-version
 RUN origtargz --unpack
 
 # tianon is _really_ lazy, and likes a preseeded bash history
-RUN echo 'origtargz --unpack && debuild -us -uc --lintian-opts "-EvIL+pedantic"' >> "$HOME/.bash_history"
-
-CMD [ "debuild", "-us", "-uc", "--lintian-opts", "-EvIL+pedantic" ]
+RUN echo 'origtargz --unpack && dpkg-buildpackage -us -uc && lintian -EvIL+pedantic' >> "$HOME/.bash_history"
