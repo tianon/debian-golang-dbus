@@ -1,4 +1,4 @@
-golang-dbus (2-1) UNRELEASED; urgency=low
+golang-dbus (2-1~exp1) UNRELEASED; urgency=low
 
   * Upstream bump to v2
   * Bump Standards-Version to 3.9.6
