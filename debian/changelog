@@ -1,8 +1,8 @@
-golang-dbus (2-1) UNRELEASED; urgency=low
+golang-dbus (2-1) unstable; urgency=low
 
   * Upload to unstable
 
- -- Tianon Gravi <admwiggin@gmail.com>  Sat, 02 May 2015 00:48:53 +0000
+ -- Tianon Gravi <admwiggin@gmail.com>  Fri, 01 May 2015 19:05:21 -0600
 
 golang-dbus (2-1~exp1) experimental; urgency=low
 
